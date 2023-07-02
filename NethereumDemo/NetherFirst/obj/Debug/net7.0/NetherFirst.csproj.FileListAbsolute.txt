@@ -50,3 +50,5 @@
 /Users/samedsakman/VsCode/Web3/NethereumDemo/NetherFirst/obj/Debug/net7.0/NetherFirst.pdb
 /Users/samedsakman/VsCode/Web3/NethereumDemo/NetherFirst/obj/Debug/net7.0/NetherFirst.genruntimeconfig.cache
 /Users/samedsakman/VsCode/Web3/NethereumDemo/NetherFirst/obj/Debug/net7.0/ref/NetherFirst.dll
+/Users/samedsakman/VsCode/Web3/NethereumDemo/NetherFirst/bin/Debug/net7.0/contracts/artifacts/test.json
+/Users/samedsakman/VsCode/Web3/NethereumDemo/NetherFirst/bin/Debug/net7.0/contracts/artifacts/test_metadata.json
